@@ -7,9 +7,9 @@ h1 {
   color: #ffffff;
 }
 
-span {
+/* span {
   color: #ffffff;
-}
+} */
 
 
 /* Colour Styles */
@@ -24,4 +24,11 @@ span {
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
+}
+
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: #000000;
 }
